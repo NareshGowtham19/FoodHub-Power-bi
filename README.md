@@ -4,6 +4,10 @@
 
 The **Foodhub Dashboard** is a data visualization project that provides insights into food order trends across various cuisine types. It highlights key metrics such as sales, customer ratings, delivery times, and order costs. This dashboard is ideal for stakeholders looking to understand customer preferences and operational performance in the food delivery space.
 
+
+## Preview
+![img](https://github.com/NareshGowtham19/FoodHub-Power-bi/blob/main/foodhub%20preview.png)
+
 ---
 
 ## 📌 Key Features
